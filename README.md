@@ -1,6 +1,6 @@
 ## Overview
 
-### The challenge
+### The challenge: Product preview card component
 
 Users should be able to:
 
